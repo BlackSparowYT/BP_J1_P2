@@ -1,4 +1,4 @@
-package mastermind_p2;
+package BP_J1_P2;
 import java.util.Random;
 
 public class randomGetal {

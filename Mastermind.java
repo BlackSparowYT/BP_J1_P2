@@ -1,4 +1,4 @@
-package BP-J1-P2;
+package BP_J1_P2;
 import java.util.Scanner;
 
 public class Mastermind {
